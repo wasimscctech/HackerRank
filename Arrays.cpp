@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true
 #include <iostream>
 #include <stdlib.h>
 using namespace std;

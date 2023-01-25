@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/vector-erase/problem?isFullScreen=true
+
 /* Removes the element present at position.  
 Ex: v.erase(v.begin()+4); (erases the fifth element of the vector v)
 

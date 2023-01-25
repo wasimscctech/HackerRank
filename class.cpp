@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true
 #include <iostream>
 #include <sstream>
 #include <stdlib.h>

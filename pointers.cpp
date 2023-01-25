@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true
 #include <iostream>
 
 void update(int *a,int *b) {

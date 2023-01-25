@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true
 #include <iostream>
 
 using namespace std;
