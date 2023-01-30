@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/prettyprint/problem?isFullScreen=true
 #include <iostream>
 #include <iomanip>
 #include <cmath>
